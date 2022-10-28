@@ -7,9 +7,9 @@ This is a project from my summer python class CS602. It was my first time learni
 * Created a highly interactive website with streamlit that accepts all file types(Github has trouble with the function accepting all files, so switched it out for file upload) 
 * Cleaned and manipulated data with pandas to get desired information
 * Showed basic statistical measures 
-* Implemented an interactive world map to present data related to location
+* Implemented an interactive world map to present data related to location, can set location to different cities according to personal preference, will show labels if mouse is selecting the data point
 * Added selectable X & Y axis scatter plot
-* Included an interactive pie chart for extra data visualizations
+* Included an interactive pie chart for extra data visualizations, lables added to provide additional information
 Note: More columns and rows could be added to have better statistical meanings, couldn't do it back then due to time restrictions
 
 ![](https://github.com/Mickeygreat/Mickey_Portfolio/blob/main/images/World%20Map.png)
