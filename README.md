@@ -1,5 +1,3 @@
-# Mickey's Portfolio
-
 # [Project 1: Data Analysis with Python](https://github.com/Mickeygreat/CS602/tree/main)  
 
 This is a project from my summer python class CS602. It was my first time learning python to do data analysis. Eventhough the learning process wasn't easy, I still managed to learn from knowing nothing about python to now an individual who can think logically with codes and write 300-400+ with ease.
