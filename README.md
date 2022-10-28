@@ -1,6 +1,11 @@
-# Mickey's Portfolio
+title: Mickey's Portfolio
+description: [To demonstrate my past work and projects!]
 
+# build settings
 remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 # [Project 1: Data Analysis with Python](https://github.com/Mickeygreat/CS602/tree/main)  
 
