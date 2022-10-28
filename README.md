@@ -1,2 +1,3 @@
-# Mickey_Portfolio
-Mickey's data science portfolio
+# Mickey's Portfolio
+
+# [Project 1: Data Analysis with Python](https://github.com/Mickeygreat/CS602/tree/main)  
