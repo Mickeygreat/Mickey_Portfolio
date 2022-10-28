@@ -13,7 +13,7 @@ This is a project from my summer python class CS602. It was my first time learni
 Note: More columns and rows could be added to have better statistical meanings, couldn't do it back then due to time restrictions
 
 ![](https://github.com/Mickeygreat/Mickey_Portfolio/blob/main/images/World%20Map.png)
-![](https://github.com/Mickeygreat/Mickey_Portfolio/blob/main/images/Pie%20Chart.png)
+![](https://github.com/Mickeygreat/Mickey_Portfolio/blob/main/images/Pie%20Chart2.png)
 
 
 
